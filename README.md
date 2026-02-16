@@ -45,7 +45,6 @@ plt.tight_layout(); plt.show()
 <img width="1536" height="850" alt="exp_1" src="https://github.com/user-attachments/assets/d2ea65a6-a0f8-4d83-8297-61c92d410dbe" />
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+
+Natural sampling of the given continuous-time signal was successfully performed. The original signal was approximately reconstructed from the natural sampled signal.
+
